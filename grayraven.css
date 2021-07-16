@@ -102,7 +102,6 @@
 .grayraven-poke span { 
   position:relative;
   z-index: 2;
-  margin-bottom: 10px;
   }
   
   .grayraven-stats {
@@ -112,4 +111,5 @@ width: 70px!important;
 position:relative;
 text-align: center;
 font-size: 11px;
+top: 10px;
   }

@@ -103,16 +103,6 @@
   position:relative;
   z-index: 2;
   }
-.grayraven-poke span:before {
-content:'';
-background-color:#fff9;
-border-radius:100%;
-width:30px!important;
-height:30px!important;
-position:absolute;
-bottom: 8px; left:20px;  
-z-index: -1;
- }
   
   .grayraven-stats {
 background-color:#fff7;

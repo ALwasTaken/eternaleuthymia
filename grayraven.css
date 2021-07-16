@@ -101,7 +101,7 @@
 
 .grayraven-poke span { 
   position:relative;
-  left: 12x; bottom: 8px;
+  left: 12x; bottom: 20px;
   z-index: 2;
   }
 .grayraven-poke span:before {

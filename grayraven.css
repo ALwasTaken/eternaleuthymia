@@ -111,7 +111,7 @@ border-radius:100%;
 width:30px!important;
 height:30px!important;
 position:absolute;
-left:20px;  
+bottom: 20; left:20px;  
 z-index: -1;
  }
   

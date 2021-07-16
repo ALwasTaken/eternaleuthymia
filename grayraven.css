@@ -101,7 +101,7 @@
 
 .grayraven-poke span { 
   position:relative;
-  left: 12x;
+  left: 12x; bottom: 8px;
   z-index: 2;
   }
 .grayraven-poke span:before {
@@ -111,7 +111,7 @@ border-radius:100%;
 width:30px!important;
 height:30px!important;
 position:absolute;
-  bottom: 0px; left:20px;  
+  bottom: 8px; left:20px;  
 z-index: -1;
  }
   
